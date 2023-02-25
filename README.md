@@ -1,5 +1,7 @@
 ## :rocket:  Profile
 
+![CJ GitHub stats](https://github-readme-stats.vercel.app/api?username=hejcj&show_icons=true&theme=highcontrast)
+
 ## :rocket: Skills
 
 <div align = "center">
